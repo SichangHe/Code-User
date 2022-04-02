@@ -1,0 +1,109 @@
+{
+	"4th header": {
+		"prefix": "h4",
+		"body": "#### "
+	},
+	"5th header": {
+		"prefix": "h5",
+		"body": "##### "
+	},
+	"6th header": {
+		"prefix": "h6",
+		"body": "###### "
+	},
+	"java code": {
+		"prefix": "java",
+		"body": [
+			"```java",
+			"$1",
+			"```",
+			"$0"
+		],
+		"description": "create java code block"
+	},
+	"rust code": {
+		"prefix": "rust",
+		"body": [
+			"```rust",
+			"$1",
+			"```",
+			"$0"
+		],
+		"description": "create rust code block"
+	},
+	"python code": {
+		"prefix": "py",
+		"body": [
+			"```python",
+			"$1",
+			"```",
+			"$0"
+		],
+		"description": "create python code block"
+	},
+	"shell script": {
+		"prefix": "sh",
+		"body": [
+			"```shell",
+			"$1",
+			"```",
+			"$0"
+		],
+		"description": "create shell script code block"
+	},
+	"add math subscript": {
+		"prefix": "sub",
+		"body": "_{$1}$2",
+		"description": "add `_{}`"
+	},
+	"create bmatrix": {
+		"prefix": "bmt",
+		"body": [
+			"\\begin{bmatrix}",
+			"    $0",
+			"\\end{bmatrix}"
+		],
+		"description": "create a bmatrix"
+	},
+	"left and right parenthesis": {
+		"prefix": "leftp",
+		"body": [
+			"\\left(",
+			"    $0",
+			"\\right)"
+		],
+		"description": "create left right parenthesis pair"
+	},
+	"left and right brackets": {
+		"prefix": "leftk",
+		"body": [
+			"\\left[",
+			"    $0",
+			"\\right]"
+		],
+		"description": "create left right brackets pair"
+	},
+	"left and right braces": {
+		"prefix": "leftc",
+		"body": [
+			"\\left\\{",
+			"    $0",
+			"\\right \\}"
+		],
+		"description": "create left right braces pair"
+	},
+	"fraction": {
+		"prefix": "frac",
+		"body": "\\frac{$1}{$2}$0",
+		"description": "create a fraction"
+	},
+	"braces": {
+		"prefix": "brace",
+		"body": [
+			"\\{",
+			"    $0",
+			"\\}"
+		],
+		"description": "a pair of braces"
+	}
+}
