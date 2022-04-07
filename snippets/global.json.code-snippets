@@ -47,5 +47,9 @@
 	"infinity": {
 		"prefix": "infty",
 		"body": "∞"
+	},
+	"quotes": {
+		"prefix": "quote",
+		"body": "“$0”"
 	}
 }
