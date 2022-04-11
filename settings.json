@@ -9,6 +9,7 @@
     "C_Cpp.clang_format_style": "WebKit",
     // cSpell
     "cSpell.userWords": [
+        "Abelian",
         "antiderivative",
         "arctan",
         "autoboxing",
@@ -42,6 +43,7 @@
         "hrefs",
         "infty",
         "injective",
+        "Jaccard",
         "Jiang",
         "Karush",
         "katex",
@@ -63,6 +65,7 @@
         "mathcal",
         "mathjax",
         "mathrm",
+        "mathscr",
         "mdbook",
         "Millis",
         "Neovide",
@@ -72,6 +75,7 @@
         "orthogonalize",
         "overdamped",
         "overfitting",
+        "Pacman",
         "pagerank",
         "pbcopy",
         "pmatrix",
@@ -95,6 +99,7 @@
         "Sīchàng",
         "sichanghe",
         "stackrel",
+        "Steinitz",
         "struct",
         "subseteq",
         "surjective",
@@ -103,6 +108,7 @@
         "Tollens",
         "Traceback",
         "transversality",
+        "uncountably",
         "varepsilon",
         "waitlist",
         "Wronskian"
